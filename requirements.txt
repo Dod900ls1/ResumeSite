@@ -3,3 +3,4 @@ dash == 2.7.0
 pandas == 1.5.1
 pycountry == 22.3.5
 numpy == 1.23.4
+gunicorn
